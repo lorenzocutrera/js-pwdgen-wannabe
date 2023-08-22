@@ -14,4 +14,4 @@ let user_lastname = prompt(' Scrivi il tuo cognome');
 let user_color = prompt(' Scrivi il tuo colore preferito');
 
 
-document.getElementById('genPass').innerHTML = user_name + user_lastname + user_color;
+document.getElementById('genPass').innerHTML = user_name + user_lastname + user_color + '23';
